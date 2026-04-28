@@ -22,7 +22,7 @@ import {
   Calendar,
   Star
 } from 'lucide-react';
-import { PRODUCTS, QUIZ_QUESTIONS, Product } from './constants';
+import { PRODUCTS, QUIZ_QUESTIONS, Product } from './constants.tsx';
 
 type Screen = 
   | 'home' 
