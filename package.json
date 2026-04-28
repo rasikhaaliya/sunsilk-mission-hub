@@ -16,7 +16,11 @@
     "react-dom": "^18.3.1",
     "recharts": "^2.10.3",
     "lucide-react": "^0.300.0",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "vite": "^6.2.0",
+    "express": "^4.21.2",
+    "dotenv": "^17.2.3",
+    "motion": "^12.23.24"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
